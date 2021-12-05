@@ -27,3 +27,5 @@ Convert Integer number to English word representation
 - 	For best representation of the website please turn of any dark reader, or dark mode and reduce page zoom to 75% on laptops.
 
 -	Follow Test Plan
+
+-	Download README.docx for instructions with images
